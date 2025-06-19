@@ -8,7 +8,8 @@
 ## 📖 정리된 논문 목록
 
 * ### [MobileNetV1 논문 분석 및 이해](./MobileNetV1/MobileNetV1.md)
-    * (간단한 설명: 경량 딥러닝 모델인 MobileNetV1의 아키텍처 및 특징 분석)
+
+* ### [MobileNetV2 논문 분석 및 이해](./MobileNetV2/MobileNetV2.md)
 
 ---
 
